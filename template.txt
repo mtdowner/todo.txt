@@ -1,0 +1,10 @@
+x - Marks completion
+(A) - Marks priority
+2016-05-20 - Completion Date
+2016-04-30 - Creation Date (must be specified if completion date)
+measure space for +chapelShelving (Project Tag) [Description tags (can be placed anywhere in here)]
+@chapel - Context Tag
+due:2016-05-30 - Special key/value tag
+
+Template:
+x (A) 2016-05-20 2016-04-30 measure space for +chapelShelving @chapel due:2016-05-30
